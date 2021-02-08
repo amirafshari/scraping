@@ -9,5 +9,5 @@ https://gooyatech.com/top-sites-in-iran-by-alexa/
 
 
 # Requirements
-Pandas
+Pandas,
 Scrapy
